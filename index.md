@@ -31,6 +31,9 @@
 ### Backup
 - [How to Backup my App Data?](#backup-how)
 
+### Data 
+- [Why is the Usage on App Not Accurate?](#data-accuracy)
+
 ---
 
 <a id="basic-what-is-data-plan"></a>
@@ -107,7 +110,7 @@ Widgets typically update every 5 minutes to provide the latest usage information
 
 <a id="widget-blank"></a>
 #### Q: Why My Widget is Blank / Black?
-On iOS 17, the widget may turn black after updating the app. This is bug on iOS we couldn't resolve. To fix this for the meantime, restart your device or add or remove the widget from the homescreen.
+On iOS 17, the widget may turn black after updating the app. This is a bug on iOS we couldn't resolve. To fix this for the meantime, restart your device or remove and add the widget in the homescreen.
 
 ---
 
@@ -128,6 +131,12 @@ To backup your data, enable 'Data Pill' backup on Settings.
 
 > Settings > [Your Name] > [This Device] > iCloud Backup > [This Device Backup] > Enable 'Data Pill'
 
+
+---
+
+<a id="data-accuracy"></a>
+#### Q: Why is the Usage on App Not Accurate?
+Please allow ± 1-5 MB error on the usage as there is no official API to retrieve the accurate mobile data usage. If you go to your phone's Settings > Mobile Service > Mobile Data Section, you will be able to see your real total data usage for the current period.
 
 ---
 
