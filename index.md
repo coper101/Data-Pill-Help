@@ -1,6 +1,6 @@
 ## Help
 *By PenguinWorksCo*  
-*Last Updated: 11 Jun 2024*
+*Last Updated: 29 Jun 2024*
 
 ### Basics
 - [What is a Data Plan?](#basic-what-is-data-plan)
@@ -22,6 +22,7 @@
 - [How to Add Widget to Lockscreen?](#widget-how-to-add-to-lock)
 - [How to Add to StandBy? (iOS 17)](#widget-how-to-add-to-standby)
 - [Why Widget is not Updating?](#widget-not-updating)
+- [Why My Widget is Blank / Black?](#widget-blank)
 
 ### Notifications
 - [Why Notifications are not Working?](#notif-not-working)
@@ -103,6 +104,10 @@ To add widget on StandBy screen, long-press the screen while on StandBy display.
 <a id="widget-not-updating"></a>
 #### Q: Why Widget is not Updating?
 Widgets typically update every 5 minutes to provide the latest usage information. However, there are occasions when the widget may not update or take some time to update. This could occur if you're not actively using the app or if you've reached the maximum daily limit of 40-60 refreshes.
+
+<a id="widget-blank"></a>
+#### Q: Why My Widget is Blank / Black?
+On iOS 17, the widget may turn black after updating the app. This is bug on iOS we couldn't resolve. To fix this for the meantime, restart your device or add or remove the widget from the homescreen.
 
 ---
 
