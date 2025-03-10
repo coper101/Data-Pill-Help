@@ -1,6 +1,6 @@
 ## Help
 *By PenguinWorksCo*  
-*Last Updated: 29 Jun 2024*
+*Last Updated: 10 Mar 2025*
 
 ### Basics
 - [What is a Data Plan?](#basic-what-is-data-plan)
@@ -16,6 +16,7 @@
 ### Pill
 - [What is a Pill?](#what-is-a-pill)
 - [How to Show Daily Usage for the Week?](#how-to-show-weekly)
+- [How to Show All Daily Usage for the Current Period?](#how-to-show-period)
 
 ### Widget
 - [How to Add Widget to Homescreen?](#widget-how-to-add-to-home)
@@ -88,7 +89,13 @@ When you tap the pill, it reveals multiple pills stacked on top of each other. E
 
 Tips: 
 - To reveal the pills behind, you can drag the current pill out of the view.
-- To display a simple comparison of the different usages, you can long-press the background and it will show you multiple lines where each line shows you how much data you have used for each day.
+- To display a simple comparison of the different usages, you can long-press the background and it will show you multiple lines where each line shows you how much data you have used for each day. Also, you can view the usages in grid or chart.
+
+<a id="how-to-show-period"></a>
+#### Q: How to Show All Daily Usage for the Current Period?
+Tap the Pill then tap the arrow next to "This Week" title. This will show a week or period selector. Tap Period then select which period to show.
+
+> This Week Selector > Period > This Period > Save
 
 ---
 
